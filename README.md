@@ -632,3 +632,5 @@ img{
   }
 }
 ```
+## OUTPUT:
+![image](https://user-images.githubusercontent.com/93427303/233848922-d98321f5-458e-4d42-97f8-366b6fb3b442.png)
